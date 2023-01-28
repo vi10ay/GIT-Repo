@@ -1,1 +1,7 @@
-This is the Srcipt file
+#! /bin/bash
+
+whoami ;
+pwd ;
+echo "hello-world" 
+
+echo "complete-ok" 
